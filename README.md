@@ -1,0 +1,1 @@
+This repository contains a MATLAB script converted from a Simulink model implementing the PSC-FoECM (Piecewise Second-order Equivalent Circuit Model), used for battery state estimation and simulation.
